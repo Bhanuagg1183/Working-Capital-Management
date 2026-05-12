@@ -1,17 +1,9 @@
 # Working Capital Management
 Working Capital Management (WCM) in financial management refers to the strategic administration of a company’s short-term assets and liabilities to ensure the business has sufficient cash flow to cover daily operating costs and short-term debt obligations. It is a critical component of financial management that balances liquidity and profitability.
 
-This GitHub repository is a project related to Working Capital Management. The repository contains a README file, a license file, and several documents related to a report and synopsis on the topic of Working Capital Management.
-
-
-## Main Function Points
-The main purpose of this project is to provide a comprehensive report and synopsis on the topic of Working Capital Management, which is a crucial aspect of financial management for businesses.
-
 
 ## Core Concept of Working Capital:
-Working capital is the lifeblood of day-to-day operations. It is often referred to as **circulating capital** because it moves through different forms:
-
-cash, inventory, receivables, and back to cash.
+Working capital is the lifeblood of day-to-day operations. It is often referred to as **circulating capital** because it moves through different forms i.e. cash, inventory, receivables, and back to cash.
 - **Formula:** Net Working Capital = Current Assets - Current Liabilities
 - **Positive Working Capital:** Current assets exceed liabilities, indicating the firm can pay its short-term debts and invest in growth
 - **Negative Working Capital:** Current liabilities exceed assets, which can signal potential liquidity crises
