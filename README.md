@@ -1,4 +1,4 @@
-# Working Capital Management
+# Working Capital Management:
 Working Capital Management (WCM) in financial management refers to the strategic administration of a company’s short-term assets and liabilities to ensure the business has sufficient cash flow to cover daily operating costs and short-term debt obligations. It is a critical component of financial management that balances liquidity and profitability.
 
 ## Core Concept of Working Capital:
