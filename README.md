@@ -1,7 +1,7 @@
 # Working Capital Management
-<!-- This is My MBA-FM (2023-2025) Final Year Project submitted to IGNOU in Jun 2025 session -->
+<!-- This is My MBA-FM (2023-2025) Final Year Project submitted to IGNOU in Jun 2025 session. -->
 
-<!-- ## Overview: -->
+<!-- ## Overview -->
 Working Capital Management (WCM) in financial management refers to the strategic administration of a company’s short-term assets and liabilities to ensure the business has sufficient cash flow to cover daily operating costs and short-term debt obligations. It is a critical component of financial management that balances liquidity and profitability.
 
 ## Core Concept of Working Capital:
